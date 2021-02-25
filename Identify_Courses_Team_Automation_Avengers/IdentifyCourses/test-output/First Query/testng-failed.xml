@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [First Query]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Tests1(failed)">
+    <classes>
+      <class name="com.identifycourses.pages.searchWebDevelopment">
+        <methods>
+          <include name="after_Suite"/>
+          <include name="getData"/>
+          <include name="before_Test"/>
+          <include name="after_Test"/>
+          <include name="getCourses"/>
+        </methods>
+      </class> <!-- com.identifycourses.pages.searchWebDevelopment -->
+    </classes>
+  </test> <!-- Tests1(failed) -->
+</suite> <!-- Failed suite [First Query] -->

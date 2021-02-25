@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Third Query]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Tests3(failed)">
+    <classes>
+      <class name="com.identifycourses.pages.ReadyToTransform">
+        <methods>
+          <include name="instituteName"/>
+          <include name="lastName"/>
+          <include name="jobTitle"/>
+          <include name="eMail"/>
+          <include name="primaryDiscipline"/>
+          <include name="navigateEnterprise"/>
+          <include name="firstName"/>
+          <include name="help"/>
+          <include name="phone"/>
+          <include name="submitForm"/>
+          <include name="State"/>
+          <include name="jobDescription"/>
+          <include name="Country"/>
+          <include name="forCampus"/>
+          <include name="instituteType"/>
+        </methods>
+      </class> <!-- com.identifycourses.pages.ReadyToTransform -->
+    </classes>
+  </test> <!-- Tests3(failed) -->
+</suite> <!-- Failed suite [Third Query] -->

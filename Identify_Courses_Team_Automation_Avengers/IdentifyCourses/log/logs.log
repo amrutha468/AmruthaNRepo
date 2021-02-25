@@ -1,0 +1,368 @@
+2021-02-25 09:18:25,391 - Identify Courses -INFO - 
+ Identify Courses Test Starts
+2021-02-25 09:18:39,400 - Identify Courses -INFO - 
+ Web Development course is searched
+2021-02-25 09:19:00,384 - Identify Courses -INFO - 
+ Filters are added
+2021-02-25 09:19:19,946 - Identify Courses -INFO - 
+ Course details are displayed on the console and stored in the array
+2021-02-25 09:19:20,231 - Identify Courses -INFO - 
+ Course name is returned and verified
+2021-02-25 09:19:20,232 - Identify Courses -INFO - 
+ Test_Case 01 passed
+2021-02-25 09:19:44,731 - Identify Courses -INFO - 
+ Search for language learning
+2021-02-25 09:20:26,182 - Identify Courses -INFO - 
+ Language names are passed to an array
+2021-02-25 09:20:30,719 - Identify Courses -INFO - 
+ Language names are passed to an array
+2021-02-25 09:20:30,724 - Identify Courses -INFO - 
+ Two 1D arrays are converted a 2D array
+2021-02-25 09:20:35,036 - Identify Courses -INFO - 
+ Level of difficulty is passed to an array
+2021-02-25 09:20:37,215 - Identify Courses -INFO - 
+ Course on each difficulty is passed to an array
+2021-02-25 09:20:37,289 - Identify Courses -INFO - 
+ Course name is returned and verified
+2021-02-25 09:20:37,289 - Identify Courses -INFO - 
+ Test_Case 02 passed
+2021-02-25 09:20:50,029 - Identify Courses -INFO - 
+ Navigate to For-Enterprise
+2021-02-25 09:21:16,659 - Identify Courses -INFO - 
+ Mousehover on product 
+2021-02-25 09:21:20,233 - Identify Courses -INFO - 
+ Field Validation with Null First name
+2021-02-25 09:21:21,711 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:21:23,688 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:21:24,329 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:21:24,915 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:21:25,481 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:21:26,078 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:21:26,754 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:21:27,533 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:21:28,408 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:21:29,061 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:21:32,923 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:21:33,161 - Identify Courses -INFO - 
+ Test_Case 03 passed
+2021-02-25 09:21:46,226 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:21:46,735 - Identify Courses -INFO - 
+  NULL Last name
+2021-02-25 09:21:47,434 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:21:47,989 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:21:48,661 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:21:49,273 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:21:49,903 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:21:50,719 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:21:51,404 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:21:52,228 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:21:52,935 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:21:54,709 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:21:54,955 - Identify Courses -INFO - 
+ Test_Case 04 passed
+2021-02-25 09:22:04,905 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:22:05,492 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:22:06,134 - Identify Courses -INFO - 
+  No selection
+2021-02-25 09:22:06,707 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:22:07,322 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:22:07,876 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:22:08,568 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:22:09,275 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:22:09,970 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:22:10,752 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:22:11,469 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:22:15,377 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:22:15,625 - Identify Courses -INFO - 
+ Test_Case 05 passed
+2021-02-25 09:22:26,405 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:22:26,957 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:22:27,678 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:22:28,185 - Identify Courses -INFO - 
+  Null input job title
+2021-02-25 09:22:28,862 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:22:29,423 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:22:30,095 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:22:30,796 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:22:31,553 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:22:32,310 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:22:32,981 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:22:36,064 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:22:36,308 - Identify Courses -INFO - 
+ Test_Case 06 passed
+2021-02-25 09:22:45,226 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:22:45,790 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:22:46,628 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:22:47,192 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:22:47,727 - Identify Courses -INFO - 
+  NULL Email
+2021-02-25 09:22:48,275 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:22:48,875 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:22:49,568 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:22:50,358 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:22:51,083 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:22:51,730 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:22:54,642 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:22:54,899 - Identify Courses -INFO - 
+ Test_Case 07 passed
+2021-02-25 09:23:01,924 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:23:04,856 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:23:05,577 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:23:06,166 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:23:06,699 - Identify Courses -INFO - 
+  Invalid Email
+2021-02-25 09:23:07,249 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:23:07,861 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:23:08,544 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:23:09,269 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:23:10,051 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:23:10,737 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:23:14,047 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:23:14,298 - Identify Courses -INFO - 
+ Test_Case 08 passed
+2021-02-25 09:23:24,213 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:23:24,754 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:23:25,409 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:23:26,026 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:23:26,647 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:23:27,176 - Identify Courses -INFO - 
+  NULL Phone number
+2021-02-25 09:23:27,765 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:23:28,522 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:23:29,267 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:23:30,018 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:23:30,787 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:23:34,117 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:23:34,367 - Identify Courses -INFO - 
+ Test_Case 09 passed
+2021-02-25 09:23:44,675 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:23:45,242 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:23:45,957 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:23:46,567 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:23:47,218 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:23:47,756 - Identify Courses -INFO - 
+  Invalid Phone number
+2021-02-25 09:23:48,431 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:23:49,148 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:23:49,812 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:23:50,589 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:23:51,312 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:23:54,678 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:23:54,925 - Identify Courses -INFO - 
+ Test_Case 10 passed
+2021-02-25 09:24:06,894 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:24:07,449 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:24:08,101 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:24:08,726 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:24:09,321 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:24:09,918 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:24:10,431 - Identify Courses -INFO - 
+  NULL Institute Name
+2021-02-25 09:24:11,224 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:24:11,895 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:24:12,653 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:24:13,365 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:24:16,231 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:24:16,490 - Identify Courses -INFO - 
+ Test_Case 11 passed
+2021-02-25 09:24:28,273 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:24:28,830 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:24:29,488 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:24:30,052 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:24:30,722 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:24:31,265 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:24:31,882 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:24:32,511 - Identify Courses -INFO - 
+  Select nothing Institute Type
+2021-02-25 09:24:33,225 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:24:33,998 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:24:34,707 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:24:37,390 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:24:37,638 - Identify Courses -INFO - 
+ Test_Case 12 passed
+2021-02-25 09:24:48,473 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:24:49,023 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:24:49,729 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:24:50,302 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:24:50,892 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:24:51,448 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:24:52,054 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:24:52,869 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:24:53,488 - Identify Courses -INFO - 
+  Select no discipline
+2021-02-25 09:24:54,262 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:24:54,950 - Identify Courses -INFO - 
+  Select Valid State
+2021-02-25 09:24:57,887 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:24:58,130 - Identify Courses -INFO - 
+ Test_Case 13 passed
+2021-02-25 09:25:07,109 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:25:09,076 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:25:09,791 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:25:10,417 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:25:11,019 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:25:11,664 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:25:12,257 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:25:12,944 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:25:13,678 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:25:14,317 - Identify Courses -INFO - 
+  Select no Country
+2021-02-25 09:25:17,411 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:25:17,653 - Identify Courses -INFO - 
+ Test_Case 14 passed
+2021-02-25 09:25:28,758 - Identify Courses -INFO - 
+ Field Validation valid First name
+2021-02-25 09:25:29,311 - Identify Courses -INFO - 
+  Valid Last name
+2021-02-25 09:25:29,989 - Identify Courses -INFO - 
+  Valid selection
+2021-02-25 09:25:30,580 - Identify Courses -INFO - 
+  Valid job title
+2021-02-25 09:25:31,255 - Identify Courses -INFO - 
+  Valid Email
+2021-02-25 09:25:31,808 - Identify Courses -INFO - 
+  Valid Phone number
+2021-02-25 09:25:32,542 - Identify Courses -INFO - 
+  Valid Institute Name
+2021-02-25 09:25:33,237 - Identify Courses -INFO - 
+  Select Valid Institute Type
+2021-02-25 09:25:33,944 - Identify Courses -INFO - 
+  Select Valid discipline
+2021-02-25 09:25:34,749 - Identify Courses -INFO - 
+  Select Valid Country
+2021-02-25 09:25:35,399 - Identify Courses -INFO - 
+  Select no State
+2021-02-25 09:25:38,942 - Identify Courses -INFO - 
+  Sumbit form is clicked but there is an error screenshot is taken
+2021-02-25 09:25:39,199 - Identify Courses -INFO - 
+ Test_Case 15 passed
